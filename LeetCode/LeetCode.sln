@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Giraffe", "Giraffe\Giraffe.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypes", "DataTypes\DataTypes.csproj", "{FAE70005-C17C-4E1D-9FEE-EAB464957E66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInput", "UserInput\UserInput.csproj", "{6F0A1A56-B57B-43F5-A414-16B833013273}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserInput", "UserInput\UserInput.csproj", "{6F0A1A56-B57B-43F5-A414-16B833013273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caculator", "Caculator\Caculator.csproj", "{DE71A807-BACA-4FF7-B728-B7B92B9E3ACD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{6F0A1A56-B57B-43F5-A414-16B833013273}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F0A1A56-B57B-43F5-A414-16B833013273}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F0A1A56-B57B-43F5-A414-16B833013273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE71A807-BACA-4FF7-B728-B7B92B9E3ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE71A807-BACA-4FF7-B728-B7B92B9E3ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE71A807-BACA-4FF7-B728-B7B92B9E3ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE71A807-BACA-4FF7-B728-B7B92B9E3ACD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
