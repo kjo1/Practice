@@ -13,13 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypes", "DataTypes\Data
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserInput", "UserInput\UserInput.csproj", "{6F0A1A56-B57B-43F5-A414-16B833013273}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caculator", "Caculator\Caculator.csproj", "{DE71A807-BACA-4FF7-B728-B7B92B9E3ACD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Caculator", "Caculator\Caculator.csproj", "{DE71A807-BACA-4FF7-B728-B7B92B9E3ACD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadLib", "MadLib\MadLib.csproj", "{011AD7C3-1E1D-4797-8E44-055CCF80BAC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MadLib", "MadLib\MadLib.csproj", "{011AD7C3-1E1D-4797-8E44-055CCF80BAC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{32F8F7B1-AC5D-4FE8-973D-FD437D807384}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array", "Array\Array.csproj", "{32F8F7B1-AC5D-4FE8-973D-FD437D807384}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method", "Method\Method.csproj", "{E4E08BAC-7C05-4D41-BB73-67436E8052E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method", "Method\Method.csproj", "{E4E08BAC-7C05-4D41-BB73-67436E8052E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnStatement", "ReturnStatement\ReturnStatement.csproj", "{6033E239-8D61-4DFB-836F-1C915920B52A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{E4E08BAC-7C05-4D41-BB73-67436E8052E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4E08BAC-7C05-4D41-BB73-67436E8052E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4E08BAC-7C05-4D41-BB73-67436E8052E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6033E239-8D61-4DFB-836F-1C915920B52A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6033E239-8D61-4DFB-836F-1C915920B52A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6033E239-8D61-4DFB-836F-1C915920B52A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6033E239-8D61-4DFB-836F-1C915920B52A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
