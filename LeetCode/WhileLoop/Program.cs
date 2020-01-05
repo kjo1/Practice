@@ -6,13 +6,13 @@ namespace WhileLoop
     {
         static void Main(string[] args)
         {
-            int index = 1;
+            int index = 6;
 
-            while (index <= 5)
+            do
             {
                 Console.WriteLine(index);
                 index++;
-            }
+            } while (index <= 5);
         }
     }
 }
