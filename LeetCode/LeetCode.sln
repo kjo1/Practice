@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseString", "LeetCode\R
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Doorlock", "Doorlock\Doorlock.csproj", "{AF076B40-851C-46B4-A5C4-372CA27F8DD7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Giraffe", "Giraffe\Giraffe.csproj", "{8941C1C1-ECEB-4BC5-83F0-F2D708264D5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variable", "Giraffe\Variable.csproj", "{8941C1C1-ECEB-4BC5-83F0-F2D708264D5B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypes", "DataTypes\DataTypes.csproj", "{FAE70005-C17C-4E1D-9FEE-EAB464957E66}"
 EndProject
@@ -32,6 +32,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileLoop", "WhileLoop\WhileLoop.csproj", "{0914C459-69A7-4EE8-8149-F8197FD63E70}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessingGame", "GuessingGame\GuessingGame.csproj", "{F2C0ABDA-BF8E-495E-B361-DE5C3717F90A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoop", "ForLoop\ForLoop.csproj", "{AA80ACBB-39E6-434C-BC4C-A42C542CE552}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{F2C0ABDA-BF8E-495E-B361-DE5C3717F90A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2C0ABDA-BF8E-495E-B361-DE5C3717F90A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2C0ABDA-BF8E-495E-B361-DE5C3717F90A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA80ACBB-39E6-434C-BC4C-A42C542CE552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA80ACBB-39E6-434C-BC4C-A42C542CE552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA80ACBB-39E6-434C-BC4C-A42C542CE552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA80ACBB-39E6-434C-BC4C-A42C542CE552}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
