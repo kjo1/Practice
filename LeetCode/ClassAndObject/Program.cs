@@ -6,20 +6,14 @@ namespace ClassAndObject
     {
         static void Main(string[] args)
         {
-            Book book1 = new Book();
-            book1.title = "Challenge";
-            book1.author = "Kanghyun Jo";
-            book1.pages = 333;
+            Book book1 = new Book("Challenge", "Kanghyun Jo", 333);
+            Book book2 = new Book("Happiness", "Kanghyun Jo", 777);
+            Book book3 = new Book();
 
-            Book book2 = new Book();
-            book2.title = "Happiness";
-            book2.author = "Kanghyun Jo";
-            book2.pages = 777;
+            book1.title = "Challenged 2";
 
             Console.WriteLine(book1.title);
             Console.WriteLine(book2.author);
-
-            Console.WriteLine("Hello World!");
         }
     }
 }

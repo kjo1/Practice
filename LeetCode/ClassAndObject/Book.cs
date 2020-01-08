@@ -9,5 +9,15 @@ namespace ClassAndObject
         public string title;
         public string author;
         public int pages;
+
+        public Book()
+        { }
+
+        public Book(string Title, string Author, int Pages)
+        {
+            title = Title;
+            author = Author;
+            pages = Pages;
+        }
     }
 }
