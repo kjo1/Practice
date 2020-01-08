@@ -45,6 +45,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassAndObject", "ClassAndO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectMethods", "ObjectMethods\ObjectMethods.csproj", "{9E842DE8-A91E-4313-AEE6-4995A98E3C1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettersSetters", "GettersSetters\GettersSetters.csproj", "{F3864BA9-87DD-499D-B49D-14F29DA737EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{9E842DE8-A91E-4313-AEE6-4995A98E3C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E842DE8-A91E-4313-AEE6-4995A98E3C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E842DE8-A91E-4313-AEE6-4995A98E3C1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3864BA9-87DD-499D-B49D-14F29DA737EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3864BA9-87DD-499D-B49D-14F29DA737EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3864BA9-87DD-499D-B49D-14F29DA737EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3864BA9-87DD-499D-B49D-14F29DA737EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
