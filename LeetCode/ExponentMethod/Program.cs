@@ -22,3 +22,4 @@ namespace ExponentMethod
         }
     }
 }
+// 3:05:32 https://youtu.be/GhQdlIFylQ8?t=11132
